@@ -67,6 +67,7 @@ function rodiviall_add_google_fonts() {
 	//wp_register_style('tw12-googleFonts', 'http://fonts.googleapis.com/css?family=Montserrat');
 	wp_enqueue_style( 'rotw12-googleFonts' );
 }
+
 //add_action( 'wp_print_styles', 'rodiviall_add_google_fonts' );
 
 
