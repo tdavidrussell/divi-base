@@ -1,5 +1,8 @@
 ## Changelog
 
+#### 20151224.1
+* Added: to git repo
+
 #### 20150911.1
 * Created child theme
 * added: footer.php, changed the copywrite notice. 
