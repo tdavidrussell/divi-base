@@ -1,5 +1,8 @@
 ## Changelog
 
+#### 20151226.1
+* Fix: fixed typo in description
+
 #### 20151224.1
 * Added: to git repo
 
