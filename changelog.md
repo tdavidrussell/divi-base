@@ -1,5 +1,9 @@
 ## Changelog
 
+#### 20151231.1
+* Updated: functions.php 
+* Tested: WordPress 4.4 and PHP 7, passed
+ 
 #### 20151226.1
 * Fix: fixed typo in description
 
