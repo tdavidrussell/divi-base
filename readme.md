@@ -33,7 +33,7 @@ Please review the functions.php and comment out the items not needed.
 1. Download the [latest release](https://github.com/tdavidrussell/) from GitHub.
 2. Unzip the archive.
 3. Copy the folder to ' /wp-content/themes/ '.
-4. Go to the __Appearance &rarr; Themes__ screen in your WordPress admin panel and click the __Activate__ button on Divi Base Development theme.
+4. Go to the __Appearance &rarr; Themes__ screen in your WordPress admin panel and click the __Activate__ button on Divi Base theme.
 
 Read the Codex for more information about [installing theme manually](https://codex.wordpress.org/Using_Themes).
 

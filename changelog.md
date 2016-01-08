@@ -1,5 +1,8 @@
 ## Changelog
 
+#### 20160101.1
+* Updated: readme.md
+
 #### 20151231.1
 * Updated: functions.php 
 * Tested: WordPress 4.4 and PHP 7, passed
