@@ -1,5 +1,8 @@
 ## Changelog
 
+#### 20160128.1
+* Changed: enqueue parent theme css, instead doing @import
+
 #### 20160101.1
 * Updated: readme.md
 
