@@ -10,7 +10,7 @@
  * Theme Name:          Divi Base
  * Theme URI:           http://www.timrussell.com/wordpress-themes
  * Description:         Basic child theme. For Divi theme from <a href="http://www.elegantthemes.com/gallery/extra/">Elegant Themes</a>
- * Version:             20160101.1
+ * Version:             20160128.1
  * Author:              Tim Russell
  * Author URI:          http://www.timrussell.com/
  * License:             GPL-2.0+
@@ -50,4 +50,4 @@
  * **********************************************************************
 */
 /** import the parent css **/
-@import url("../Divi/style.css");
+/** @import url("../Divi/style.css"); **/
