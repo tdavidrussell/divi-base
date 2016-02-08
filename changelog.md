@@ -1,5 +1,9 @@
 ## Changelog
 
+#### 20160208.1
+* Added: clean head tag area
+* Added: TinyMCE custom CSS
+
 #### 20160128.1
 * Changed: enqueue parent theme css, instead doing @import
 
