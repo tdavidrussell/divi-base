@@ -1,5 +1,9 @@
 ## Changelog
 
+#### 20160616.1
+* code cleanup and testing
+
+
 #### 20160516.1
 * Changed: Change the Gallery image orientation
 * Changed: html header cleanup
