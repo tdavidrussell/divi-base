@@ -16,7 +16,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 	exit;
 }
 
-define( 'RODIVIBASE_VERSION', '20160516.1' );
+define( 'RODIVIBASE_VERSION', '20160616.1' );
 define( 'RODIVIBASE_CDIR', get_stylesheet_directory() ); // if child, will be the file path, with out backslash
 define( 'RODIVIBASE_CURI', get_stylesheet_uri() ); // URL, if child, will be the url to the theme directory, no back slash
 
@@ -151,7 +151,7 @@ function ro_enqueue_login_scripts() {
 
 //add_action( 'login_enqueue_scripts', 'ro_enqueue_login_scripts' );
 /**
- * The gallery module not recognise the image orientation.
+ * The gallery module does not recognise the image orientation.
  * All images reduced to the fixed sizes and may be cropped.
  * We can change those fixed sizes. Please add the following
  * code to the functions.php :
