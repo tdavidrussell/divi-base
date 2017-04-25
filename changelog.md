@@ -1,5 +1,8 @@
 ## Changelog
 
+#### 20170425.1
+* Updated: updated the theme description
+
 #### 20160718.1
 * Updated: updated the theme description
 
