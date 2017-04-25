@@ -16,7 +16,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 	exit;
 }
 
-define( 'RODIVIBASE_VERSION', '20160718.1' );
+define( 'RODIVIBASE_VERSION', '20170425.1' );
 define( 'RODIVIBASE_CDIR', get_stylesheet_directory() ); // if child, will be the file path, with out backslash
 define( 'RODIVIBASE_CURI', get_stylesheet_uri() ); // URL, if child, will be the url to the theme directory, no back slash
 
