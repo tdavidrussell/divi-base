@@ -2,10 +2,10 @@
 
 __Contributors:__ 
 
-* Tim Russell [Web](http://timrussell.com) / [GitHub](https://github.com/tdavidrussell) / [Bitbucket](https://bitbucket.com/tdavidrussell)    
+* Tim Russell [Web](https://timrussell.com) / [GitHub](https://github.com/tdavidrussell) / [Bitbucket](https://bitbucket.com/tdavidrussell)    
 
-__Requires:__ 4.6   
-__Tested up to:__ 4.8
+__Requires:__ 4.8   
+__Tested up to:__ 4.9
 __License:__ [GPL-2.0+](http://www.gnu.org/licenses/gpl-2.0.html)
 __[Project Page](https://github.com/tdavidrussell/divi-base)__   
 
@@ -15,7 +15,7 @@ Divi Base Child Theme. This theme is setup for some of the most common functions
 
 Please review the functions.php and comment out the items not needed.
  
-[Divi Parent Theme](http://www.elegantthemes.com/) REQUIRED!
+[Divi Parent Theme](https://www.elegantthemes.com/) REQUIRED!
 
 
 ## Installation

@@ -1,10 +1,13 @@
 ## Changelog
 
 #### 20170712.1
+Tested: 4.9
+Code restructured
+
+#### 20170712.1
 Tested: 4.8
 Added: social links now open in new tab
  
-
 #### 20170425.1
 * Updated: updated the theme description
 

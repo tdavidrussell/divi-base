@@ -7,9 +7,9 @@
  *
  * @wordpress-theme
  * Theme Name:          Divi Base
- * Theme URI:           http://timrussell.com/wordpress-themes
+ * Theme URI:           http://timrussell.com/wordpress
  * Description:         Basic child theme. For Divi theme from <a href="http://www.elegantthemes.com/gallery/divi/">Elegant Themes</a>
- * Version:             20170712.1
+ * Version:             20181119.1
  * Author:              Tim Russell
  * Author URI:          http://timrussell.com/
  * License:             GPL-2.0+
@@ -50,3 +50,51 @@
 */
 /** import the parent css **/
 /** @import url("../Divi/style.css"); **/
+@import url('css/contact-form7.css');
+@import url('css/divi-header-widget-noborder.css');
+@import url('css/loginwidget-ap.css');
+@import url('css/tribe-events.css');
+
+/** start block -> stop forcing width of featured images **/
+.post-thumbnail img {
+    display: block;
+    width: auto;
+    margin: auto;
+}
+
+img {
+    display: block;
+    width: auto;
+    margin: auto;
+}
+
+/** stop block -> stop forcing width of featured images **/
+
+#footer {
+    color: #f8f8f8;
+}
+
+/** fixed footer bottom **/
+#footer-bottom {
+    background-color: #232323;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    z-index: 9;
+}
+
+p#footer-info {
+    width: 100%;
+    text-align: center;
+}
+
+/* footer widget text, ie category count was black on black */
+#footer ul li {
+    color: #f8f8f8 !important;
+}
+
+/** change the hover color on footer links **/
+#footer-info a:hover {
+    color: #f8f8f8;
+}
