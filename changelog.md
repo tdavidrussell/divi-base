@@ -1,8 +1,11 @@
 ## Changelog
 
+#### 20181203.1
+* Updated: description
+
 #### 20170712.1
-Tested: 4.9
-Code restructured
+* Tested: 4.9
+* Code restructured
 
 #### 20170712.1
 Tested: 4.8
