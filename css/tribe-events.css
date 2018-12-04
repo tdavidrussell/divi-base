@@ -1,0 +1,24 @@
+
+.tribe-events-before-html {
+    margin: 1em 0;
+    font-size: 1.4em;
+}
+
+p.tribe-events-widget-link {
+    text-align: center;
+}
+
+p.tribe-events-widget-link a {
+    font-style: normal !important;
+    color: #aaaaaa;
+    text-transform: uppercase;
+}
+
+p.tribe-events-widget-link a:visited {
+    font-style: normal;
+    color: #aaaaaa;
+}
+
+.tribe-events-list-widget ol li {
+    margin-bottom: 0;
+}
